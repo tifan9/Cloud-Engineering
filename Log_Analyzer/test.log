@@ -1,0 +1,11 @@
+2026-06-07 10:03:22 ERROR Database timeout
+2026-06-07 10:04:01 INFO Server started
+2026-06-07 10:05:15 WARNING High memory usage
+2026-06-07 10:07:44 ERROR Database timeout
+2026-06-07 10:08:30 INFO User logged in
+2026-06-07 10:10:22 ERROR Auth failed for user admin
+2026-06-07 10:12:45 INFO Request processed
+2026-06-07 10:15:01 ERROR Database timeout
+2026-06-07 10:16:33 WARNING Slow response time
+2026-06-07 10:18:20 ERROR Auth failed for user john
+2026-06-07 10:20:00 INFO Backup completed
